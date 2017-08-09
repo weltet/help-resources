@@ -6,3 +6,6 @@ https://www.mkyong.com/swing/java-swing-how-to-make-a-simple-dialog/
   
 <<Java Examples>>
  http://www.javacodex.com/Swing/JSlider
+
+<<Database Table Convention>>
+  https://stackoverflow.com/questions/7662/database-table-and-column-naming-conventions
